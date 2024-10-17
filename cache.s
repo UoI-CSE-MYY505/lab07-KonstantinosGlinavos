@@ -55,4 +55,3 @@ skip:
     # exit syscall
     li     a7, 10
     ecall
-
